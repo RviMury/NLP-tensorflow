@@ -32,7 +32,7 @@ tokenizer.texts_to_sequences(test_sentences)
 
 ## Sentiment_Classification
 The code classifies news headlines to dectet weather they are sarcastic or not
--- Dataset: Dataset can be found on kaggle :https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection.
--- There are two classes, with 0: Non Sarcastic and 1: Sacrastic.
--- The model uses a corpus with vocabulary size of 28165 with 706,574 trainable parameters.
--- The model performs with an accuracy of 0.76 with recall value of 0.8 on sarcastic class.
+1. Dataset: Dataset can be found on kaggle :https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection.
+2. There are two classes, with 0: Non Sarcastic and 1: Sacrastic.
+3. The model uses a corpus with vocabulary size of 28165 with 706,574 trainable parameters.
+4. The model performs with an accuracy of 0.76 with recall value of 0.8 on sarcastic class.
